@@ -4,7 +4,7 @@ Hello! This is my GitHub profile.
 
 # about me
 
-I'm Guilherme, old in 30 years old and I'm learning front end
+I'm Guilherme, I'm 30 years old and I'm learning front end
 
 ## Contacts
 
