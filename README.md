@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GuilhermeLeal1994
-- 👀 I’m interested in  criar novas tecnologias voltadas para o setor de Logística e Comercial
-- 🌱 I’m currently learning  Kotlin no Digital  Innovation One
-- 💞️ I’m looking to collaborate com tecnologias voltadas para os setores  citados em meu interesse
+- 👋 Hi, I’m Guilherme Leal de Deus
+- 👀 I’m interested in  create new external technologies for the Logistics and Commercial sector
+- 🌱 I’m currently learning  Front End in Digital  Innovation One
+- 💞️ I’m looking to collaborate with external technologies for the sectors mentioned in my interest
 - 📫 How to reach me  gui.leal94@gmail.com ou WhatsApp +5541995522840
 
 <!---
